@@ -1,5 +1,5 @@
 # **NextTs**
-### Nextjs template pre-configured with **TS** (strict), **Scss**, **Prettier+ESLint** 
+Nextjs template pre-configured with **TS** (strict), **Scss**, **Prettier+ESLint** 
 #
 ## **Links**
  - ### [Next Site](https://nextjs.org/)
