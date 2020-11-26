@@ -21,9 +21,10 @@ Nextjs template pre-configured with **TS** (strict), **Scss**, **Prettier+ESLint
 
 ### **Run:**
   - `yarn dev`
+  - Then open [http://localhost:3000](http://localhost:3000)
 ### **Run customer port:**
-
   - Open _**package.json**_ and replace (`"dev": "next dev"`) with (`"dev": "next dev -p 8000"`)
+  - Then open [http://localhost:8000](http://localhost:8000)
 #
 
 ## **Deploying on Vercel**
